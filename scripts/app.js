@@ -2,4 +2,4 @@ var heading = 1;
 
 
 // 
-document.getElementById(mybutton).onClick(alert("WOW!"));
+document.getElementById("mybutton").onClick(alert("WOW!"));
